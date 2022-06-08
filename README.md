@@ -1,6 +1,6 @@
 # deployReactwithFirebase
-Steps to publish react project with firebase for free
-
+↓ Steps to publish react project with firebase for free ↓
+-----------------------------------------------------
 <li> Go to the file directory where the project is located </li>
 <li> npm run build </li>
 <li> npm i firebase-tools </li>
@@ -17,6 +17,7 @@ Steps to publish react project with firebase for free
 <li> firebase deploy </li>
 
 and you can reach the project from the given link
+
 
 
 <img src="https://w3tpoint.com/uploads/4aea8d0b521f93686cc33940342f19ac.png" width="auto">
