@@ -17,4 +17,4 @@ Steps to publish react project with firebase for free
 • firebase deploy
 
 and you can reach the project from the given link
-<img src="https://www.pngwing.com/en/free-png-yteyn" width="auto">
+<img src="https://jafapps.com.br/wp-content/uploads/2019/01/jafapps_.png" width="auto">
